@@ -293,4 +293,4 @@ Este projeto está versionado com Git. Para publicar no GitHub ou GitLab, consul
 
 ✅ Repositório Git inicializado
 ✅ Commit inicial realizado
-📋 Aguardando configuração do repositório remoto (GitHub/GitLab)
+✅ Repositório remoto configurado: https://github.com/Mariastodi/lab1-so2

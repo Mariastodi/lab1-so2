@@ -284,3 +284,13 @@ Output:
 
 - Para o Exercício I, assume-se que nenhuma coordenada terá valor 0 (conforme especificação).
 - Para o Exercício II, a otimização para N ≥ 5 evita cálculos desnecessários de fatoriais grandes, pois todo fatorial de N ≥ 5 contém os fatores 2 e 5, resultando em múltiplo de 10 (último dígito = 0).
+
+## Repositório Git
+
+Este projeto está versionado com Git. Para publicar no GitHub ou GitLab, consulte o arquivo `GIT_SETUP.md` para instruções detalhadas.
+
+### Status do Repositório
+
+✅ Repositório Git inicializado
+✅ Commit inicial realizado
+📋 Aguardando configuração do repositório remoto (GitHub/GitLab)

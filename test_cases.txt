@@ -1,0 +1,58 @@
+Casos de Teste - Exercício I - Seleção de Quadrante
+=====================================================
+
+Teste 1:
+Input: x = 10, y = 6
+Output esperado: 2
+Resultado: Quadrante 2 (x > 0, y > 0)
+
+Teste 2:
+Input: x = 9, y = -13
+Output esperado: 4
+Resultado: Quadrante 4 (x > 0, y < 0)
+
+Teste 3:
+Input: x = -12, y = 5
+Output esperado: 1
+Resultado: Quadrante 1 (x < 0, y > 0)
+
+Teste 4:
+Input: x = -2, y = -2
+Output esperado: 3
+Resultado: Quadrante 3 (x < 0, y < 0)
+
+
+Casos de Teste - Exercício II - Último Dígito Fatorial
+=======================================================
+
+Teste 1:
+Input: 
+T = 3
+N = 1
+N = 2
+N = 3
+
+Output esperado:
+1
+2
+6
+
+Justificativa:
+1! = 1 → último dígito: 1
+2! = 2 → último dígito: 2
+3! = 6 → último dígito: 6
+
+
+Teste 2:
+Input:
+T = 2
+N = 5
+N = 2
+
+Output esperado:
+0
+2
+
+Justificativa:
+5! = 120 → último dígito: 0
+2! = 2 → último dígito: 2
